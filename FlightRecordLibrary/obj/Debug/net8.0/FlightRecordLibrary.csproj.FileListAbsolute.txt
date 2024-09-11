@@ -1,0 +1,12 @@
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\bin\Debug\net8.0\FlightRecordLibrary.deps.json
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\bin\Debug\net8.0\FlightRecordLibrary.dll
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\bin\Debug\net8.0\FlightRecordLibrary.pdb
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.csproj.AssemblyReference.cache
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.AssemblyInfoInputs.cache
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.AssemblyInfo.cs
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.dll
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\refint\FlightRecordLibrary.dll
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\FlightRecordLibrary.pdb
+C:\Users\Axis Cyber\source\repos\FlightRecordLibrary\FlightRecordLibrary\obj\Debug\net8.0\ref\FlightRecordLibrary.dll
